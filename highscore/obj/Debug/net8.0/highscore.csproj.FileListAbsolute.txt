@@ -1,0 +1,14 @@
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\bin\Debug\net8.0\highscore.exe
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\bin\Debug\net8.0\highscore.deps.json
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\bin\Debug\net8.0\highscore.runtimeconfig.json
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\bin\Debug\net8.0\highscore.dll
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\bin\Debug\net8.0\highscore.pdb
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\obj\Debug\net8.0\highscore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\obj\Debug\net8.0\highscore.AssemblyInfoInputs.cache
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\obj\Debug\net8.0\highscore.AssemblyInfo.cs
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\obj\Debug\net8.0\highscore.csproj.CoreCompileInputs.cache
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\obj\Debug\net8.0\highscore.dll
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\obj\Debug\net8.0\refint\highscore.dll
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\obj\Debug\net8.0\highscore.pdb
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\obj\Debug\net8.0\highscore.genruntimeconfig.cache
+C:\Users\Alexander.bolander\Documents\programering 2\highscore\obj\Debug\net8.0\ref\highscore.dll
