@@ -1,0 +1,15 @@
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\bin\Debug\net8.0\vne.exe
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\bin\Debug\net8.0\vne.deps.json
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\bin\Debug\net8.0\vne.runtimeconfig.json
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\bin\Debug\net8.0\vne.dll
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\bin\Debug\net8.0\vne.pdb
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\obj\Debug\net8.0\vne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\obj\Debug\net8.0\vne.AssemblyInfoInputs.cache
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\obj\Debug\net8.0\vne.AssemblyInfo.cs
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\obj\Debug\net8.0\vne.csproj.CoreCompileInputs.cache
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\obj\Debug\net8.0\vne.sourcelink.json
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\obj\Debug\net8.0\vne.dll
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\obj\Debug\net8.0\refint\vne.dll
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\obj\Debug\net8.0\vne.pdb
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\obj\Debug\net8.0\vne.genruntimeconfig.cache
+C:\Users\Alexander.bolander\Documents\programering 2\vne\vne\obj\Debug\net8.0\ref\vne.dll
