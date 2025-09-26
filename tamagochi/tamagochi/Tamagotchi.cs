@@ -55,6 +55,6 @@ public class Tamagotchi
 
     public bool GetAlive()
     {
-        return true;
+        return IsAlive();
     }
 }
