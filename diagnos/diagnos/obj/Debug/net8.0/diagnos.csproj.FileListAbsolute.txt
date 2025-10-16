@@ -1,0 +1,5 @@
+C:\Users\Alexander.bolander\Documents\programering 2\diagnos\diagnos\obj\Debug\net8.0\diagnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexander.bolander\Documents\programering 2\diagnos\diagnos\obj\Debug\net8.0\diagnos.AssemblyInfoInputs.cache
+C:\Users\Alexander.bolander\Documents\programering 2\diagnos\diagnos\obj\Debug\net8.0\diagnos.AssemblyInfo.cs
+C:\Users\Alexander.bolander\Documents\programering 2\diagnos\diagnos\obj\Debug\net8.0\diagnos.csproj.CoreCompileInputs.cache
+C:\Users\Alexander.bolander\Documents\programering 2\diagnos\diagnos\obj\Debug\net8.0\diagnos.sourcelink.json
