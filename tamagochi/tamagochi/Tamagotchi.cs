@@ -6,8 +6,13 @@ public class Tamagotchi
     private int hunger = 0;
     private int boredom = 0;
     private List<string> words = ["Hallo"];
-    private bool IsAlive;
-    private string name;
+    private bool IsAlive = true;
+    private string name = "";
+    public void naming()
+    {
+        Console.WriteLine("sdfghjk ");
+        name = Console.ReadLine();
+    }
 
     public void Feed()
     {
@@ -49,12 +54,12 @@ public class Tamagotchi
     }
     public void PrintStats()
     {
-        Console.WriteLine($"Boredom: {boredom}, hunger: {hunger}");
+        Console.WriteLine($"Name {name}, Boredom: {boredom}, hunger: {hunger}, Alive {IsAlive}");
 
     }
 
     public bool GetAlive()
     {
-        return IsAlive();
+        return IsAlive;
     }
 }
